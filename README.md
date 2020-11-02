@@ -7,11 +7,11 @@ Use the Budget Tracker to help you reach your financial goals. You can add expen
 Get started on tracking your workouts! [Link to app in Heroku](https://budget-tracker-react.herokuapp.com/).
 
 ## Budget Tracker
-<img src="assets/images/budet_tracker.png" width="400">
+<img src="assets/images/budget_tracker.png" width="400">
 
 ### User Story
 ```
-AS AN avid traveller
+AS AN avid traveler
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
 SO THAT my account balance is accurate when I am traveling
 ```
