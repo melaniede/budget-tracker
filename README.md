@@ -7,7 +7,7 @@ Use the Budget Tracker to help you reach your financial goals. You can add expen
 Get started on tracking your workouts! [Link to app in Heroku](https://budget-tracker-react.herokuapp.com/).
 
 ## Budget Tracker
-<img src="assets/images/budget_tracker.png" width="400">
+<img src="/assets/images/budget_tracker.png" width="400">
 
 ### User Story
 ```
